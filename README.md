@@ -94,10 +94,14 @@
 
 ---
 
-# 📈 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-tech-sys&layout=compact&theme=radical"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-tech-sys&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    height="170"
+  />
 </p>
 
 ---
