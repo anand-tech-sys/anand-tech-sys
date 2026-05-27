@@ -97,7 +97,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-tech-sys&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-tech-sys&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </p>
 
 ---
