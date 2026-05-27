@@ -19,7 +19,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Anand8748
+          github_user_name: anand-tech-sys
           outputs: |
             dist/github-contribution-grid-snake.svg
 
