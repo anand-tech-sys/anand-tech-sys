@@ -86,9 +86,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anand8748&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anand-tech-sys&show_icons=true&theme=radical" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand8748&theme=radical" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-tech-sys&theme=radical" height="165"/>
 
 </p>
 
@@ -104,7 +104,7 @@
 
 # 🐍 Contribution Graph
 
-![Snake animation](https://github.com/Anand8748/Anand8748/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/anand-tech-sys/anand-tech-sys/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -112,7 +112,7 @@
 
 <p>
 
-<a href="https://github.com/Anand8748">
+<a href="https://github.com/anand-tech-sys">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
