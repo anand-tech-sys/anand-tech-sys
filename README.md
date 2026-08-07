@@ -116,6 +116,8 @@ CNN-based image classifier detecting 3 potato leaf disease categories with 96%+ 
   <img src="https://raw.githubusercontent.com/anand-tech-sys/anand-tech-sys/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+---
+
 <p align="center">
   <em>Open to AI/ML Engineering, Generative AI, and Agentic Systems internship & full-time roles.</em><br/>
   📫 Reach me at <a href="mailto:anandhatti8748@gmail.com">anandhatti8748@gmail.com</a>
