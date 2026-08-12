@@ -99,13 +99,29 @@ CNN-based image classifier detecting 3 potato leaf disease categories with 96%+ 
 
 ## 📊 GitHub Stats
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anand-tech-sys&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Anand's GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=anand-tech-sys&theme=default&hide_border=true" alt="Anand's GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anand-tech-sys&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" alt="Anand GitHub Stats" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-tech-sys&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-tech-sys&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top Languages" height="170"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anand-tech-sys/anand-tech-sys/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+<p align="center">
+  <em>Open to AI/ML Engineering, Generative AI, and Agentic Systems internship & full-time roles.</em><br/>
+  📫 Reach me at <a href="mailto:anandhatti8748@gmail.com">anandhatti8748@gmail.com</a>
 </p>
 
 ---
