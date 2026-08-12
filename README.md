@@ -96,19 +96,15 @@ CNN-based image classifier detecting 3 potato leaf disease categories with 96%+ 
 - 🟣 **Introduction to Machine Learning** — NPTEL (Sep 2025)
 
 ---
-
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anand-tech-sys&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" alt="Anand GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anand-tech-sys&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-tech-sys&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anand-tech-sys&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
