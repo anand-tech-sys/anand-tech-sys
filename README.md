@@ -97,15 +97,15 @@ CNN-based image classifier detecting 3 potato leaf disease categories with 96%+ 
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anand-tech-sys&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Anand's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anand-tech-sys&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Anand's GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=anand-tech-sys&theme=default&hide_border=true" alt="Anand's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anand-tech-sys&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-tech-sys&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
